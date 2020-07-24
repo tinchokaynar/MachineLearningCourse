@@ -12,7 +12,8 @@ The course covers:
   - Linear Regression
   - K Nearest Neighbors
   - SVM (Support vector machines)
-      * Kernels, Convex Optimization, Quadratic Programming
+  - Kernels
   - K-Means
+  - Mean Shift
   - Neural Networks
 

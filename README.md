@@ -16,4 +16,6 @@ The course covers:
   - K-Means
   - Mean Shift
   - Neural Networks
+  - TensorFlow Basics
+  - NTLK Basics
 
